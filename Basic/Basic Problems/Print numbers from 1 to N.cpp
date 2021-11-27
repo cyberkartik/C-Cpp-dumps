@@ -1,4 +1,5 @@
 //To print all the numbers from 1 to N
+
 #include<iostream>
 using namespace std;
 int main()

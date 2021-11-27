@@ -1,4 +1,5 @@
 //To take input A and D and print N numbers in the form, A+D, A+2D, A+3D.... A+ND
+
 #include<iostream>
 using namespace std;
 int main()

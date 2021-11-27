@@ -1,4 +1,5 @@
 //To print average of 5 numbers
+
 #include<iostream>
 using namespace std;
 int main()

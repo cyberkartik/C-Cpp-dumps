@@ -1,3 +1,5 @@
+//To print the largest and the smallest number for given numbers
+
 #include<iostream>
 using namespace std;
 int main()
